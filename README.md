@@ -10,3 +10,5 @@
 * MixinGradle	- (plugin) 0.8.5
 * Forge			- 1.12.2 (14.23.5.2860)
 * Mixin			- (plugin) 0.7.38
+
+Чтобы ваш компилированный мод работал потребуется дополнительно установить [_MixinBootstrap-1.1.0](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap/files/3437402)
